@@ -1,0 +1,1 @@
+Simualted binary response
